@@ -1,13 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/ridex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/ridex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/ridex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DJAK-KODM5E?style=social)](https://youtu.be/DJAK-KODM5E)
-
-  <br />
-  <br />
   
   <img src="./readme-images/project-logo.png" />
 
@@ -15,7 +7,7 @@
 
   Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/ridex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mcowino20.github.io/ridex/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -49,7 +41,7 @@ git clone https://github.com/codewithsadee/ridex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/edutech).
 
 ### License
 
